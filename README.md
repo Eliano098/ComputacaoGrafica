@@ -1,3 +1,2 @@
 # ComputacaoGrafica
- Simulação de cobranças de penalti
- Aplicação desenvolvida com C# e OpenGL
+ Simulação de cobranças de penalti, desenvolvida com utilização de \n C# e OpenGL
